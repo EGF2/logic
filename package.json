@@ -5,7 +5,7 @@
   "dependencies": {
     "bunyan": "^1.5.1",
     "bunyan-format": "^0.2.1",
-    "commons": "git+https://github.com/EGF2/commons.git"
+    "dotenv": "^5.0.0"
   },
   "devDependencies": {
     "eslint": "^3.10.2",
