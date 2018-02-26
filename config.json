@@ -1,4 +1,5 @@
 {
+  "port": 2020,
   "log_level": "info",
   "client-data": "http://127.0.0.1:8000/",
   "elastic": {
